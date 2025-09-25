@@ -1,0 +1,37 @@
+{
+  "intersection_id": "DEMO_INTERSECTION_001",
+  "total_cycles": 40,
+  "ml_model_trained": true,
+  "efficiency_score": 99.49,
+  "emergency_activations": 3,
+  "period_analysis": {
+    "morning": {
+      "avg_ns_vehicles": 21.0,
+      "avg_ew_vehicles": 28.8,
+      "avg_ns_green_time": 30.6,
+      "avg_ew_green_time": 38.5,
+      "total_cycles": 10
+    },
+    "afternoon": {
+      "avg_ns_vehicles": 23.4,
+      "avg_ew_vehicles": 21.8,
+      "avg_ns_green_time": 35.5,
+      "avg_ew_green_time": 35.9,
+      "total_cycles": 10
+    },
+    "evening": {
+      "avg_ns_vehicles": 33.3,
+      "avg_ew_vehicles": 38.0,
+      "avg_ns_green_time": 32.8,
+      "avg_ew_green_time": 36.2,
+      "total_cycles": 10
+    },
+    "night": {
+      "avg_ns_vehicles": 3.5,
+      "avg_ew_vehicles": 5.4,
+      "avg_ns_green_time": 31.0,
+      "avg_ew_green_time": 40.0,
+      "total_cycles": 10
+    }
+  }
+}
